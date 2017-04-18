@@ -1,4 +1,4 @@
 create origin master from local
 222222222222222222222222222222
-Creating a new branch is quick and simple.
+Creating 2 new branch is quick and simple.
 666
